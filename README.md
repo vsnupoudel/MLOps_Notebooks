@@ -1,2 +1,2 @@
 # MLOps_Notebooks
-Notebooks from MLOps course
+Notebooks from various MLOps courses
